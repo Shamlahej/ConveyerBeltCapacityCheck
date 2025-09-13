@@ -1,3 +1,5 @@
+Conveyer Belt Capacity Check 
+
 #Har brugt Console.writeline som vist i undervisning til at få programmet til at forespørge om antallet af motorer (prompt the user for the numbers of motors), herefter indtastes input. 
 #int.Parse konverterer tekst (string) fra Readline til heltal (int), hvilket betyder motors = heltal (int).
 #var er implicit, finder selv type variabel.
