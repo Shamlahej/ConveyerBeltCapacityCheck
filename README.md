@@ -20,8 +20,7 @@ var quotient = weight / motors;
 if (quotient <=5.6)
 
 #Nu er det igen at vi bruger Console.Writeline til at få konsollen til at printe at "Yes! The conveyor belt can carry the packages.", hvis betingelsen opfyldes. 
-#Og hvis betingelsen ikke opfyldes printes anden sætning: "No. The conveyor belt cannot carry the packages."
-# else bruges fordi første betingelse køres igennem og hvis den ikke opfylder, køres næste betingelse. 
+#Og hvis betingelsen ikke opfyldes printes anden sætning: "No. The conveyor belt cannot carry the packages." Vi bruger else funktion fordi at første betingelse køres igennem og hvis ikke betingelsen opfyldes køres næste betingelse. 
 
 { Console.WriteLine("Yes! The conveyor belt can carry the packages."); }
 else
