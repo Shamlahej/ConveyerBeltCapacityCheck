@@ -9,5 +9,3 @@ if (quotient <=5.6)
 { Console.WriteLine("Yes! The conveyor belt can carry the packages."); }
 else
 { Console.WriteLine("No. The conveyor belt cannot carry the packages."); }
-
-//hej2
